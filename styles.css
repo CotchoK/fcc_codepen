@@ -1,0 +1,54 @@
+body { /*background:black;*/ }
+
+#title {
+	margin-top: 10px;
+	padding-top: 10px;
+}
+
+#content {
+	background: #eaeaf0;
+	border-radius: 3px;
+}
+
+#image_div {
+	display: block;
+	margin: auto;
+}
+
+#image {
+	margin: auto;
+	max-width: 100%;
+	display: block;
+	height: auto;
+	border-style: solid;
+	border-color: #3c080f;
+	border-radius: 5px;
+}
+
+hr {
+	margin: auto;
+	max-width: 95%;
+}
+
+ul {
+	text-align: left;
+	width: 40%;
+	position:relative;
+	list-style-type: circle;
+	left: 30%;
+}
+
+ul li {
+	margin: 5px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+caption {
+	display:table-caption;
+	text-align: center;
+}
+
+.text_center {
+	text-align: center;
+}
